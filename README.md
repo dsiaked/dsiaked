@@ -2,7 +2,7 @@
 ## write with Github profile markdown maker site
 
 ✨  참고 사이트
-1️⃣ 소미 github 프로필
+1️⃣ github 프로필
 https://github.com/dasom222g
 
 4️⃣ 프로필 README.md 파일 자동 생성
